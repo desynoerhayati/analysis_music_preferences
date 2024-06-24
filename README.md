@@ -20,15 +20,15 @@ This project consists of three stages:
 * Hypothesis testing
 
 # How to Run the Project
-Set Up Environment: Ensure you have Python and the required libraries installed, such as pandas, numpy, and matplotlib.
-Load Dataset: Download the music_project_en.csv file and place it in your working directory.
-Run Analysis: Open and run the Jupyter notebook containing the code for data cleaning, analysis, and visualization.
-Review Results: Check the output of the notebook to understand the music preferences of listeners in Springfield and Shelbyville.
+* Set Up Environment: Ensure you have Python and the required libraries installed, such as pandas, numpy, and matplotlib.
+* Load Dataset: Download the music_project_en.csv file and place it in your working directory.
+* Run Analysis: Open and run the Jupyter notebook containing the code for data cleaning, analysis, and visualization.
+* Review Results: Check the output of the notebook to understand the music preferences of listeners in Springfield and Shelbyville.
 
 # System Requirements
-Python 3.6 or higher
-Jupyter Notebook
-Python Libraries: pandas, numpy, matplotlib
+* Python 3.6 or higher
+* Jupyter Notebook
+* Python Libraries: pandas, numpy, matplotlib
 
 # Contact
 If you have any questions or feedback regarding this project, please contact:
